@@ -8,3 +8,7 @@ yarn
 react-native link
 react-native run-ios
 ```
+
+
+
+![Screenshot of News App](http://i.imgur.com/joGnGLV.png "Screenshot")
