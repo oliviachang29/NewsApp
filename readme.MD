@@ -1,5 +1,5 @@
 # NewsApp
-Running with React Native 45.1 and React 16.0.0.alpha-12. Not supported on Android.
+Running with React Native 45.1 and React 16.0.0.alpha-12. Uses the awesome wix react-native-navigation project. Not supported on Android.
 
 ### Running this project
 ```
